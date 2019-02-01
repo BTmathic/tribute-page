@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Tribute from './components/tribute';
+import Tribute from './components/Tribute';
 
 import 'normalize.css/normalize.css'; // reset all browser conventions
 import './styles/styles.scss';

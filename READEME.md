@@ -8,6 +8,6 @@ A short biography/tribute to the mathematician Paul Erdős.
 
 ### Build Tools
 
-* Webpack
+* Parcel
 * Yarn
 * Babel

@@ -1,11 +1,13 @@
 import React from 'react';
 
+const erdos = require('../../public/Erdos.jpg');
+
 const Header = () => (
     <div>
         <h1>Paul Erdős</h1>
         <h3 className='subtitle'>Described by his biographer, Paul Hoffman, as "probably the most eccentric mathematician in the world," Erdős spent most of his adult life living out of a suitcase.</h3>
         <figure className='image'>
-            <img src='./Erdos.jpg'
+            <img src={erdos}
                 alt='Erdős chatting with fellow mathematician David Kendall in Cambridge, England'
             /> {/*include caption*/}
             <figcaption className='img-caption'>

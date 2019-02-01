@@ -1,7 +1,7 @@
 import React from 'react';
-import Header from './header';
-import Timeline from './timeline';
-import Footer from './footer';
+import Header from './Header';
+import Timeline from './Timeline';
+import Footer from './Footer';
 
 export default class Tribute extends React.Component {
     state = {
